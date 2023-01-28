@@ -10,7 +10,7 @@ html {
     scrollbar-color: #f64b3c black;
     scrollbar-width: thin;
     scroll-behavior: smooth;
-    background-image:url('/Web/Burger-page/media/banner_1.png');
+    background-image:url('/Burger-page/media/banner_1.png');
     background-attachment: fixed;
     background-position: center;
 }
