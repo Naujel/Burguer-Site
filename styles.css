@@ -150,7 +150,10 @@ nav {
     color: #f64b3c;
     transform: scale(1.2);
 }
-
+.enlaces .enlaces-texto a:hover {
+    color: #f64b3c;
+    transform: scale(1.2);
+}
 .logo img:hover {
     transform: scale(1.2);
 }
