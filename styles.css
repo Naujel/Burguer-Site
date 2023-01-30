@@ -97,7 +97,6 @@ nav {
     display: flex;
     justify-content: end;
     align-items: center;
-    padding-right: 50px;
 }
     .enlaces a {
         text-decoration: none;
